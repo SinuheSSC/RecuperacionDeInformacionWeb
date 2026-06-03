@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:onto="http://data.orbitalview.org/ontology/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_17">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Seis años después, Fortnite vuelve al iPhone y Epic anuncia "la batalla final" contra Apple</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El videojuego vuelve este martes a los iPhone de todos los países menos Australia, casi seis años después de su expulsión. Epic asegura que el Tribunal Supremo de EE.UU. forzará a Apple a cambiar su sistema de comisiones&amp;nbsp;Leer</onto:content>
+    <onto:sourceURL rdf:resource="https://www.elmundo.es/tecnologia/2026/05/19/6a0c7b02e85ece3e638b4573.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tue, 19 May 2026 17:11:13 +0200</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Ángel_Jiménez_de_Luis"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_tecnologia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_23">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Google frustra el primer ataque documentado de hackers que usaron una IA para descubrir vulnerabilidades desconocidas</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La compañía afirma haber detectado a un grupo criminal que utilizó un modelo de lenguaje para explotar un fallo de seguridad antes de que causara daño. El incidente llega semanas después de que Anthropic anunciara su nuevo modelo Mythos&amp;nbsp;Leer</onto:content>
+    <onto:sourceURL rdf:resource="https://www.elmundo.es/tecnologia/innovacion/2026/05/12/6a02b4c8e4d4d8f96e8b458a.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tue, 12 May 2026 07:04:20 +0200</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Ángel_Jiménez_de_Luis"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_tecnologia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_29">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Samsung celebra el primer aniversario de The Mind Guardian, la herramienta que identifica señales de deterioro cognitivo</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La Sociedad Española de Neurología advierte que más del 50% de los españoles descuida hábitos clave para su salud cerebral y el 40% de los casos de Alzheimer podrían prevenirse&amp;nbsp;Leer</onto:content>
+    <onto:sourceURL rdf:resource="https://www.elmundo.es/tecnologia/2026/05/06/69fb45aefc6c8345138b4581.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wed, 06 May 2026 18:31:57 +0200</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_EL_MUNDO"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_tecnologia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_4">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Qualcomm lanza un procesador pensado para portátiles de menos de 300 euros</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La plataforma usa núcleos Kryo heredados del móvil, integra una NPU para tareas de inteligencia artificial y renuncia a la certificación Copilot+ de Microsoft. Acer, HP y Lenovo serán los primeros en montarla&amp;nbsp;Leer</onto:content>
+    <onto:sourceURL rdf:resource="https://www.elmundo.es/tecnologia/2026/05/28/6a185ddafdddffe0368b4596.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thu, 28 May 2026 17:23:14 +0200</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Ángel_Jiménez_de_Luis"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_tecnologia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_6">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Roban cientos de cuentas de Instagram engañando a la IA de Meta</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Un fallo en el asistente de recuperación de cuentas de Meta permitió a varios atacantes secuestrar perfiles muy codiciados durante varios días. Bastaba con convencer al chatbot detrás del servicio técnico&amp;nbsp;Leer</onto:content>
+    <onto:sourceURL rdf:resource="https://www.elmundo.es/tecnologia/2026/06/02/6a1e6483fc6c8314758b4593.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tue, 02 Jun 2026 07:05:10 +0200</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Ángel_Jiménez_de_Luis"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_tecnologia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_25">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nintendo claudica y subirá el precio de la Switch 2</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El nuevo precio entrará en vigor el 1 de septiembre. La compañía espera un beneficio muy por debajo de lo previsto, presionada por el coste de la memoria&amp;nbsp;Leer</onto:content>
+    <onto:sourceURL rdf:resource="https://www.elmundo.es/tecnologia/2026/05/08/69fdfb2ae4d4d8334d8b45a1.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fri, 08 May 2026 17:03:17 +0200</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Ángel_Jiménez_de_Luis"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_tecnologia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_9">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Meta no quiere vivir solo de anuncios y lanzará nuevas suscripciones "Plus" para Instagram, Facebook y WhatsApp</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Los nuevos servicios cuestan entre 2,99 y 3,99 dólares al mes (entre 2,55 y 3,40 euros aproximadamente) y conviven con Meta Verified. La compañía probará además planes específicos para creadores, negocios y usuarios de inteligencia artificial bajo una nueva marca, "Meta One"&amp;nbsp;Leer</onto:content>
+    <onto:sourceURL rdf:resource="https://www.elmundo.es/tecnologia/2026/05/27/6a176704e85eceed578b459e.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wed, 27 May 2026 23:49:59 +0200</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Ángel_Jiménez_de_Luis"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_tecnologia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_18">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Apple anuncia un sistema para controlar sillas de ruedas desde Vision Pro usando sólo los ojos</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La compañía actualiza VoiceOver, la Lupa y el control por voz con modelos de IA locales y añade subtítulos generados automáticamente para cualquier vídeo. Las novedades de accesibilidad llegarán a finales de este año&amp;nbsp;Leer</onto:content>
+    <onto:sourceURL rdf:resource="https://www.elmundo.es/tecnologia/2026/05/19/6a0c7309fdddff89568b4579.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tue, 19 May 2026 16:37:57 +0200</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Ángel_Jiménez_de_Luis"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_tecnologia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/person_Ángel_Jiménez_de_Luis.">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/Person"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ángel Jiménez de Luis.</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_8">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shokz OpenFit Pro: el ruido sin taparse los oídos</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Los OpenFit Pro incorporan cancelación de ruido en un diseño de oreja abierta. La tecnología funciona mejor de lo esperado, y el resultado es el auricular deportivo más completo que ha hecho Shokz hasta la fecha.&amp;nbsp;Leer</onto:content>
+    <onto:sourceURL rdf:resource="https://www.elmundo.es/tecnologia/gadgets/2026/05/29/6a1966a3e4d4d87a528b4587.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fri, 29 May 2026 12:13:29 +0200</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_E.M."/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_tecnologia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/person_Ángel_Jiménez">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/Person"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ángel Jiménez</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_0">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Microsoft lanza un mini PC para desarrolladores que ejecuta modelos de IA sin pasar por la nube</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Surface RTX Spark Dev Box monta los últimos chips de NVIDIA, capaces de alcanzar un petaflop (mil billones de operaciones por segundo) y 128 GB de memoria unificada&amp;nbsp;Leer</onto:content>
+    <onto:sourceURL rdf:resource="https://www.elmundo.es/tecnologia/creadores/2026/06/02/6a1f1d65e4d4d811458b45bb.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tue, 02 Jun 2026 20:14:31 +0200</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Ángel_Jiménez_de_Luis"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_tecnologia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_5">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sony cambia de estrategia: anuncia un nuevo 'God of War' sin Kratos como protagonista tras 21 años al frente de la saga</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La compañía inaugura la semana del Summer Game Fest poniendo fecha a otros esperados juegos del catálogo de PS5 como el de Lobezno&amp;nbsp;Leer</onto:content>
+    <onto:sourceURL rdf:resource="https://www.elmundo.es/tecnologia/videojuegos/2026/06/03/6a1fbf09e4d4d8d9088b45ad.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wed, 03 Jun 2026 07:44:40 +0200</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Raquel_Díaz"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_tecnologia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_11">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">MacBook Air M5: en busca de un nuevo propósito</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Apple ha actualizado este año su ordenador más popular con el chip M5, Wi-Fi 7 y el doble de almacenamiento de partida. Cuesta 1.199 euros, pero ya no es el Mac más barato y ahora debe buscar su hueco entre el Neo y el Pro&amp;nbsp;Leer</onto:content>
+    <onto:sourceURL rdf:resource="https://www.elmundo.es/tecnologia/2026/05/26/6a15eeabe9cf4ad4568b458d.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tue, 26 May 2026 21:04:17 +0200</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Ángel_Jiménez_de_Luis."/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_tecnologia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_2">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Acusan a un empleado de Google en EEUU de usar datos confidenciales para ganar 1 millón de dólares en una plataforma de apuestas</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Michelle Spagnuolo, que apostaba por las búsquedas de los usuarios en Google, "había accedido a datos internos confidenciales y de gran valor comercial" de la compañía, por lo que conocía los resultados antes que el resto de usuarios&amp;nbsp;Leer</onto:content>
+    <onto:sourceURL rdf:resource="https://www.elmundo.es/tecnologia/2026/05/28/6a17da1de4d4d88f128b45be.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thu, 28 May 2026 08:01:10 +0200</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Efe"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_tecnologia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_19">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Si no pagas por X sólo podrás publicar 50 mensajes al día</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La plataforma de Elon Musk ha reducido drásticamente el número de mensajes y respuestas que pueden enviar los usuarios gratuitos, desde los 2.400 anteriores hasta 50 publicaciones y 200 respuestas al día&amp;nbsp;Leer</onto:content>
+    <onto:sourceURL rdf:resource="https://www.elmundo.es/tecnologia/creadores/2026/05/18/6a0b7513fdddfffd188b4597.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mon, 18 May 2026 22:22:56 +0200</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Ángel_Jiménez_de_Luis"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_tecnologia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/person_EL_MUNDO">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/Person"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EL MUNDO</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/section_tecnologia">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/Section"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">tecnologia</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q210167"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_1">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Los chips para PC de Nvidia ya están aquí y Microsoft creará un nuevo portátil Surface con ellos</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">De alta potencia y eficiencia y con arquitectura ARM, los RTX Spark aspiran a competir con los M5 Pro y Max de Apple. Dell, HP, ASUS, Lenovo y MSI fabricarán ordenadores con ellos pero también Microsoft, que lanzará un Surface Ultra&amp;nbsp;Leer</onto:content>
+    <onto:sourceURL rdf:resource="https://www.elmundo.es/tecnologia/innovacion/2026/06/01/6a1d2020e4d4d84e558b4576.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mon, 01 Jun 2026 14:37:28 +0200</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Ángel_Jiménez_de_Luis"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_tecnologia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_13">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Spotify reservará entradas de conciertos para los fans más fieles de cada artista</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La compañía sueca presentó este jueves Reserved, un sistema que reservará dos entradas por usuario para los suscriptores del servicio Premium identificados como seguidores más activos de un artista. Llegará a Estados Unidos este verano de la mano de Live Nation, el mayor promotor de conciertos del mundo&amp;nbsp;Leer</onto:content>
+    <onto:sourceURL rdf:resource="https://www.elmundo.es/tecnologia/2026/05/21/6a0f6a88e4d4d817518b4599.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thu, 21 May 2026 23:02:44 +0200</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Ángel_Jiménez_de_Luis"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_tecnologia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/person_Raquel_Díaz">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/Person"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Raquel Díaz</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_20">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Grok Build, el agente de programación de xAI que aspira a competir con Claude Code y Codex</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La herramienta llega en versión beta y sólo para suscriptores del plan SuperGrok Heavy, que cuesta unos unos 285 euros al mes. Es el último intento de Elon Musk por recortar la distancia que su empresa de inteligencia artificial mantiene con Anthropic y OpenAI en uno de los segmentos más rentables del sector&amp;nbsp;Leer</onto:content>
+    <onto:sourceURL rdf:resource="https://www.elmundo.es/tecnologia/innovacion/2026/05/17/6a0a0a74fc6c83fc128b4588.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sun, 17 May 2026 20:41:58 +0200</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Ángel_iménez_de_Luis"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_tecnologia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_21">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wilson Blade v10: la raqueta de control más completa de la última década</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Entre 280 y 290 euros para la décima generación de uno de los marcos más respetados del circuito. Una actualización que va más allá de lo cosmético.&amp;nbsp;Leer</onto:content>
+    <onto:sourceURL rdf:resource="https://www.elmundo.es/tecnologia/2026/05/13/6a047853e85ecec9698b45cc.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wed, 13 May 2026 15:10:45 +0200</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_E.M."/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_tecnologia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_3">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Una IA busca voluntarios para masturbarse por 2.000 dólares al mes: así pretenden potenciar sus chats de voz sexuales y "combatir" la soledad</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A través de un estudio, la inteligencia artificial Joi IA pretende comprender los efectos del autoplacer para percibir aspectos como el estrés, la calidad del sueño, el estado de ánimo o la confianza&amp;nbsp;Leer</onto:content>
+    <onto:sourceURL rdf:resource="https://www.elmundo.es/tecnologia/2026/05/28/6a185d8efc6c83eb208b4591.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thu, 28 May 2026 17:28:46 +0200</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Enrique_Carrasquilla_C."/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_tecnologia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_27">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nothing Phone (4a) Pro: casi gama alta por 479 euros</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Probamos el último móvil de Nothing, que abandona el plástico por un chasis de aluminio, estrena un teleobjetivo periscópico de 50 megapíxeles y reinventa las luces traseras que se han convertido en la identidad de la marca&amp;nbsp;Leer</onto:content>
+    <onto:sourceURL rdf:resource="https://www.elmundo.es/tecnologia/2026/05/07/69fcb46921efa043378b4585.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thu, 07 May 2026 17:49:06 +0200</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Ángel_Jiménez_de_Luis"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_tecnologia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_12">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Huawei cree que podrá fabricar mejores chips que TSMC y evitar las sanciones</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La compañía china asegura que podrá fabricar procesadores de 1,4 nanómetros en 2031 sin acceso a la litografía EUV, vetada en China por Occidente, y estrenará una nueva arquitectura este otoño en su próximo procesador Kirin&amp;nbsp;Leer</onto:content>
+    <onto:sourceURL rdf:resource="https://www.elmundo.es/tecnologia/creadores/2026/05/25/6a146e65e85ece004c8b457c.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mon, 25 May 2026 17:53:53 +0200</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Ángel_Jiménez_de_Luis"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_tecnologia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_7">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Shift, la 'startup' que ofrece limpiar tu casa gratis a cambio de datos para entrenar robots con inteligencia artificial</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El proyecto, que ha comenzado en Nueva York, lleva a las casas a limpiadores que llevan puestas unas gafas o cascos especiales que graban en primera persona cómo limpian, ordenan y organizan&amp;nbsp;Leer</onto:content>
+    <onto:sourceURL rdf:resource="https://www.elmundo.es/tecnologia/2026/05/29/6a19693bfc6c83ec4c8b4582.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fri, 29 May 2026 12:55:07 +0200</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Enrique_Carrasquilla_C."/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_tecnologia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_26">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Google lanza Fitbit Air, una pulsera de fitness sin pantalla, y rediseña Google Health como un nuevo servicio</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El nuevo dispositivo, el más ligero que ha fabricado Fitbit, se podrá reservar desde hoy y llegará a las tiendas el 26 de mayo&amp;nbsp;Leer</onto:content>
+    <onto:sourceURL rdf:resource="https://www.elmundo.es/tecnologia/2026/05/07/69fcda4ffdddffaa2b8b45a0.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thu, 07 May 2026 20:30:42 +0200</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Ángel_Jiménez_de_Luis"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_tecnologia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_15">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El Señor de los Anillos contará con un nuevo videojuego de mundo abierto a cargo de Warhorse Studios</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tras el fracaso de Gollum, el juego de 2023 peor valorado por la prensa en Metacritic, los encargados del Kingdom Come Deliverance se hacen cargo de uno de los juegos más esperados por los seguidores de la Tierra Media&amp;nbsp;Leer</onto:content>
+    <onto:sourceURL rdf:resource="https://www.elmundo.es/tecnologia/videojuegos/2026/05/20/6a0d8ae821efa089158b45e1.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wed, 20 May 2026 12:34:30 +0200</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Enrique_Carrasquilla_C."/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_tecnologia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_10">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mini PC o portátil: cómo elegir el ordenador adecuado para tus necesidades</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Comparamos las ventajas y desventajas de los mini PC y los portátiles para entender a quién le conviene  cada opción&amp;nbsp;Leer</onto:content>
+    <onto:sourceURL rdf:resource="https://www.elmundo.es/tecnologia/2026/05/27/6a16aeacfc6c8362258b45b7.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wed, 27 May 2026 10:58:48 +0200</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Giuseppe_Servidio"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_tecnologia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_22">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El Chromebook ha muerto, Google presenta el Googlebook</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La compañía deja en segundo plano a Chrome OS para apostar por una plataforma construida desde cero alrededor de la inteligencia artificial. Los primeros equipos, fabricados por Acer, Asus, Dell, HP y Lenovo, llegarán al mercado el próximo otoño&amp;nbsp;Leer</onto:content>
+    <onto:sourceURL rdf:resource="https://www.elmundo.es/tecnologia/gadgets/2026/05/12/6a037fc2e4d4d8094d8b4589.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tue, 12 May 2026 21:35:46 +0200</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Ángel_Jiménez_de_Luis"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_tecnologia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_14">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CapCut y Gemini se asocian para editar imágenes y vídeos y hacerle la vida mucho más sencilla a los creadores de contenido</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Con esta colaboración, el usuario podrá generar ideas, crear el contenido y perfeccionarlo sin tener que salir de la aplicación de Gemini&amp;nbsp;Leer</onto:content>
+    <onto:sourceURL rdf:resource="https://www.elmundo.es/tecnologia/2026/05/21/6a0ed61a21efa096068b45a5.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thu, 21 May 2026 11:58:43 +0200</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Enrique_Carrasquilla_C."/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_tecnologia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/person_Giuseppe_Servidio">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/Person"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Giuseppe Servidio</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_28">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Apple frente a la Ley de Mercados Digitales: "Nos están obligando a dejar funciones fuera de Europa"</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kyle Andeer, vicepresidente de Legislación Regulatoria y de Productos de Apple, admite que la compañía podría verse forzada a degradar la experiencia de sus productos en la Unión Europea si la Comisión no reconsidera su interpretación de la norma&amp;nbsp;Leer</onto:content>
+    <onto:sourceURL rdf:resource="https://www.elmundo.es/tecnologia/creadores/2026/05/07/69fc1e68e9cf4afb698b4596.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thu, 07 May 2026 07:09:01 +0200</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Ángel_Jiménez"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_tecnologia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_16">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Google entra en la era de los agentes con Gemini Spark y un nuevo modelo más rápido y barato</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La compañía presenta Gemini 3.5 Flash, un modelo comparable pero más barato que los más avanzados de OpenAI o Anthropic. También lanza Omni, un modelo capaz de generar vídeo a partir de cualquier entrada&amp;nbsp;Leer</onto:content>
+    <onto:sourceURL rdf:resource="https://www.elmundo.es/tecnologia/creadores/2026/05/19/6a0cd17d21efa0f8018b45cb.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tue, 19 May 2026 23:09:26 +0200</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Ángel_Jiménez_de_Luis"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_tecnologia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/person_E.M.">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/Person"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">E.M.</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/person_Ángel_iménez_de_Luis">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/Person"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ángel iménez de Luis</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/person_Efe">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/Person"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Efe</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_24">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Denuncian en Francia a TikTok por suicidios o trastornos mentales de adolescentes</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La abogada del caso busca que los políticos saquen adelante una ley para prohibir las redes sociales a los más jóvenes&amp;nbsp;Leer</onto:content>
+    <onto:sourceURL rdf:resource="https://www.elmundo.es/tecnologia/2026/05/11/6a018edbfdddff67718b459d.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mon, 11 May 2026 10:20:24 +0200</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Efe"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_tecnologia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q210167">
+    <rdfs:label xml:lang="es">tecnologia</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/person_Enrique_Carrasquilla_C.">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/Person"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Enrique Carrasquilla C.</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/person_Ángel_Jiménez_de_Luis">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/Person"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ángel Jiménez de Luis</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>
