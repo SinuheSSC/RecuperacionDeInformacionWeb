@@ -1,0 +1,189 @@
+{
+  "overview": {
+    "top_unigrams": [
+      "the",
+      "champions",
+      "final",
+      "and",
+      "madrid"
+    ],
+    "top_bigrams": [
+      "luis enrique",
+      "real madrid",
+      "champions league",
+      "final champions",
+      "millones euros"
+    ],
+    "top_trigrams": [
+      "final champions league",
+      "psg luis enrique",
+      "puskas arena budapest",
+      "promo codes off",
+      "final liga campeones"
+    ],
+    "named_entities": [
+      "Arsenal",
+      "Champions",
+      "Luis Enrique",
+      "España",
+      "Champions League",
+      "Real Madrid",
+      "Europa",
+      "Leer El",
+      "Budapest",
+      "Madrid"
+    ]
+  },
+  "by_category": {
+    "tecnologia": {
+      "unigrams": [
+        "the",
+        "and",
+        "for",
+        "with",
+        "off"
+      ],
+      "bigrams": [
+        "promo codes",
+        "inteligencia artificial",
+        "off june",
+        "rtx spark",
+        "codes off"
+      ],
+      "trigrams": [
+        "promo codes off",
+        "codes off june",
+        "with the latest",
+        "promo codes and",
+        "codes and deals"
+      ],
+      "lexical_diversity": 0.552,
+      "cloud_file": "cloud_tecnologia.png"
+    },
+    "economia": {
+      "unigrams": [
+        "the",
+        "millones",
+        "españa",
+        "euros",
+        "and"
+      ],
+      "bigrams": [
+        "millones euros",
+        "millones dólares",
+        "south summit",
+        "guerra irán",
+        "comisión europea"
+      ],
+      "trigrams": [
+        "millones dólares millones",
+        "dólares millones euros",
+        "impacto guerra irán",
+        "samantha vallejonágera lola",
+        "vallejonágera lola lolita"
+      ],
+      "lexical_diversity": 0.602,
+      "cloud_file": "cloud_economia.png"
+    },
+    "ciencia": {
+      "unigrams": [
+        "científicos",
+        "tierra",
+        "nasa",
+        "mundo",
+        "estudio"
+      ],
+      "bigrams": [
+        "cambio climático",
+        "capa ozono",
+        "respuestas curiosos",
+        "curiosos revista",
+        "revista bbc"
+      ],
+      "trigrams": [
+        "respuestas curiosos revista",
+        "curiosos revista bbc",
+        "revista bbc focus",
+        "estudio publicado revista",
+        "mexicano mario molina"
+      ],
+      "lexical_diversity": 0.651,
+      "cloud_file": "cloud_ciencia.png"
+    },
+    "politica": {
+      "unigrams": [
+        "psoe",
+        "presidente",
+        "sánchez",
+        "gobierno",
+        "leire"
+      ],
+      "bigrams": [
+        "leire díez",
+        "pedro sánchez",
+        "guardia civil",
+        "presidente gobierno",
+        "cloaca psoe"
+      ],
+      "trigrams": [
+        "fontanera leire díez",
+        "élite económica catalana",
+        "hermano pedro sánchez",
+        "plaza ganó david",
+        "ganó david sánchez"
+      ],
+      "lexical_diversity": 0.738,
+      "cloud_file": "cloud_politica.png"
+    },
+    "deportes": {
+      "unigrams": [
+        "champions",
+        "final",
+        "psg",
+        "madrid",
+        "arsenal"
+      ],
+      "bigrams": [
+        "luis enrique",
+        "real madrid",
+        "champions league",
+        "final champions",
+        "mikel arteta"
+      ],
+      "trigrams": [
+        "final champions league",
+        "psg luis enrique",
+        "puskas arena budapest",
+        "final liga campeones",
+        "luis enrique arteta"
+      ],
+      "lexical_diversity": 0.451,
+      "cloud_file": "cloud_deportes.png"
+    },
+    "salud": {
+      "unigrams": [
+        "cáncer",
+        "enfermedad",
+        "consumo",
+        "salud",
+        "día"
+      ],
+      "bigrams": [
+        "cambio hora",
+        "vacunas cáncer",
+        "buzón bienestar",
+        "déficit vitamina",
+        "medicina regenerativa"
+      ],
+      "trigrams": [
+        "verdad pareja hacerte",
+        "pareja hacerte feliz",
+        "hacerte feliz convertimos",
+        "feliz convertimos pareja",
+        "convertimos pareja lugar"
+      ],
+      "lexical_diversity": 0.817,
+      "cloud_file": "cloud_salud.png"
+    }
+  }
+}

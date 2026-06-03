@@ -1,0 +1,32 @@
+=== TREND ANALYSIS REPORT ===
+
+1. GRANULARITY
+   Mode: Weekly
+   Rationale: multi-week span enables macro-level trend detection.
+
+2. PEAK EVENT
+   Highest concentration: ECONOMIA during 2026-W22 (186 articles).
+   Representative headlines from that window:
+   - "El aumento de la inflación en la UE allana el camino al BCE para subir los tipos de interés la próxima semana"
+   - "El portugués que le está dando la vuelta a Esade en plena revolución de la IA: "Somos un jardín, no una torre""
+   - "China levanta un nuevo muro que frustra las aspiraciones de Sánchez de una mayor cooperación tecnológica"
+
+3. LEXICAL SHIFTS
+   Comparing earliest period (2014-W34) vs latest (2026-W22):
+
+>> Topic: DEPORTES
+   Up: final (+21), psg (+21), champions (+17)
+   Down: 
+
+>> Topic: ECONOMIA
+   Up: the (+40), millones (+29), euros (+13)
+   Down: 
+
+>> Topic: TECNOLOGIA
+   Up: the (+86), and (+66), for (+24)
+   Down: 
+
+4. SYNTHESIS
+    Activity patterns shift with publication cycles and editorial agendas.
+    Terminology adapts to match ongoing coverage themes and emerging
+    institutional voices across the observation window.

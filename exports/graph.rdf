@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:onto="http://data.orbitalview.org/ontology/"
+   xmlns:owl="http://www.w3.org/2002/07/owl#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/person_Jorge__Velasco_García">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/Person"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jorge  Velasco García</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_15">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El empleo de extranjeros acelera más que nunca con 289.000 nuevos puestos en el último año</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El Gobierno cree que es pronto para relacionar estas cifras con la regularización extraordinaria de trabajadores foráneos</onto:content>
+    <onto:sourceURL rdf:resource="https://elpais.com/economia/2026-06-03/el-empleo-de-extranjeros-acelera-mas-que-nunca-con-289000-nuevos-puestos-en-el-ultimo-ano.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wed, 03 Jun 2026 03:45:01 GMT</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Emilio_Sánchez_Hidalgo"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_economia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/person_Jose_Miguel_Barjola">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/Person"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jose Miguel Barjola</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_29">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La Consejería de Educación de Madrid, de nuevo condenada por negar el sueldo de verano a una profesora interna</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El Tribunal Superior de Justicia de Madrid condena a la consejería a pagar más de 4.000 euros con intereses a una docente</onto:content>
+    <onto:sourceURL rdf:resource="https://elpais.com/economia/mis-derechos/2026-05-21/la-consejeria-de-educacion-de-madrid-de-nuevo-condenada-por-negar-el-sueldo-de-verano-a-una-profesora-interna.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thu, 21 May 2026 10:23:22 GMT</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Patricia__Estebán"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_economia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_16">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">¿Qué hacemos si el casero no nos comunica si va a ampliar el contrato? Somos jubilados y vivimos en esta casa desde 2020</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Los lectores envían sus preguntas al consultorio de vivienda de EL PAÍS en colaboración con Legálitas</onto:content>
+    <onto:sourceURL rdf:resource="https://elpais.com/economia/vivienda/consultorio/2026-06-03/que-hacemos-si-el-casero-no-nos-comunica-si-va-a-ampliar-el-contrato-somos-jubilados-y-vivimos-en-esta-casa-desde-2020.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wed, 03 Jun 2026 03:30:00 GMT</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Ramón_Menendez_(abogado_de_Legálitas)"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_economia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/person_Nuria_Morcillo,Manuel_Vicente_Gómez_Gómez">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/Person"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nuria Morcillo,Manuel Vicente Gómez Gómez</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_11">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La OCDE advierte de que algunas economías entrarán en recesión si el bloqueo del estrecho de Ormuz se prolonga</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El organismo sube una décima, hasta el 2,2%, sus perspectivas de crecimiento para España este año, la única gran economía del euro que mejora</onto:content>
+    <onto:sourceURL rdf:resource="https://elpais.com/economia/2026-06-03/la-ocde-advierte-de-que-algunas-economias-entraran-en-recesion-si-el-bloqueo-del-estrecho-de-ormuz-se-prolonga.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wed, 03 Jun 2026 07:00:46 GMT</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Álvaro_Sánchez"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_economia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_21">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cuidado con usar la IA sin permiso, puede acabar en despido</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cada vez más empleados recurren a esta tecnología por su cuenta, mientras muchas empresas siguen sin controlarla</onto:content>
+    <onto:sourceURL rdf:resource="https://elpais.com/economia/negocios/2026-05-31/cuidado-con-usar-la-ia-sin-permiso-puede-acabar-en-despido.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sun, 31 May 2026 03:30:00 GMT</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Jorge__Velasco_García"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_economia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/person_Patricia__Estebán">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/Person"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Patricia  Estebán</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_22">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Por qué las Bolsas están en máximos a pesar de los ‘shocks’ geopolíticos: “Cuanto más caos, más estímulos se aprueban”</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El mayor gasto de gobiernos, empresas y familias compensa la incertidumbre bélica, según los expertos de JP Morgan Asset Management</onto:content>
+    <onto:sourceURL rdf:resource="https://elpais.com/economia/negocios/2026-05-31/por-que-las-bolsas-estan-en-maximos-a-pesar-de-los-shocks-geopoliticos-cuanto-mas-caos-mas-estimulos-se-aprueban.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sun, 31 May 2026 03:30:00 GMT</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_David_Fernández_Díaz"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_economia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_13">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">España propone a México duplicar el comercio bilateral para 2030</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sheinbaum se reúne por videoconferencia con el vicepresidente Carlos Cuerpo, al no poder llegar a Palacio Nacional por las protestas de los maestros en la capital mexicana</onto:content>
+    <onto:sourceURL rdf:resource="https://elpais.com/mexico/economia/2026-06-02/espana-propone-a-mexico-duplicar-el-comercio-bilateral-para-2030.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tue, 02 Jun 2026 19:04:32 GMT</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Sonia_Corona"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_economia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_7">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Las poderosas razones que tiene la vivienda para seguir subiendo</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sólo un alza muy prolongada de los tipos de interés desactivará un mercado en el que la oferta no alcanza a la demanda</onto:content>
+    <onto:sourceURL rdf:resource="https://cincodias.elpais.com/opinion/2026-06-03/las-poderosas-razones-que-tiene-la-vivienda-para-seguir-subiendo.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wed, 03 Jun 2026 03:40:00 GMT</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_JOSE_ANTONIO_VEGA_VEGA"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_economia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_10">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Trump plantea nuevos aranceles a la UE, China o México basados en supuestos incumplimientos de las reglas de trabajo forzado</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Estados Unidos busca reconstruir su política arancelaria después de la derrota en el Supremo y planea aplicar un gravamen de al menos un 10% a decenas de países</onto:content>
+    <onto:sourceURL rdf:resource="https://elpais.com/economia/2026-06-03/trump-plantea-nuevos-aranceles-a-la-ue-china-o-mexico-basados-en-supuestos-incumplimientos-de-las-reglas-de-trabajo-forzado.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wed, 03 Jun 2026 13:29:42 GMT</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_María_Sahuquillo_,Jesús-Sérvulo_González_Moreno"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_economia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_19">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Elon Musk lleva a Wall Street al espacio: SpaceX, las claves de la empresa que intenta colonizar Marte con la mayor salida a Bolsa de la historia</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El hombre más rico del mundo ultima la venta de acciones de su compañía de cohetes, satélites e IA, una operación de 75.000 millones de dólares envuelta en polémica</onto:content>
+    <onto:sourceURL rdf:resource="https://elpais.com/economia/negocios/2026-05-30/elon-musk-lleva-a-wall-street-al-espacio-spacex-las-claves-de-la-empresa-que-intenta-colonizar-marte-con-la-mayor-salida-a-bolsa-de-la-historia.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sat, 30 May 2026 15:45:00 GMT</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Jesús-Sérvulo_González_Moreno"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_economia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/person_EL_PAÍS">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/Person"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">EL PAÍS</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_14">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Las medidas para contener el alza de bajas laborales encallan: el Gobierno intenta sumar a la patronal a un pacto de mínimos</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Los sindicatos esperan que la Seguridad Social impulse un real decreto con varias iniciativas no conflictivas para asegurar un voto positivo en el Congreso, pero los empresarios se resiste a apoyarlo</onto:content>
+    <onto:sourceURL rdf:resource="https://elpais.com/economia/2026-06-03/las-medidas-para-contener-el-alza-de-bajas-laborales-encallan-el-gobierno-intenta-sumar-a-la-patronal-a-un-pacto-de-minimos.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wed, 03 Jun 2026 03:45:01 GMT</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Raquel_Cortés_Pascual"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_economia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/person_Raquel_Cortés_Pascual">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/Person"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Raquel Cortés Pascual</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_3">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Las claves de un ultimátum: cómo Washington consumó el jaque al decaído turismo en Cuba</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La orden ejecutiva del 1 de mayo, que amenaza con congelar los activos de las empresas extranjeras en la isla, tomará efecto el viernes</onto:content>
+    <onto:sourceURL rdf:resource="https://elpais.com/mexico/2026-06-03/las-claves-de-un-ultimatum-como-washington-consumo-el-jaque-al-decaido-turismo-en-cuba.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wed, 03 Jun 2026 03:45:01 GMT</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Juan_Carlos_Espinosa"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_economia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/person_Ramón_Menendez_(abogado_de_Legálitas)">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/Person"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ramón Menendez (abogado de Legálitas)</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_17">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La economía gana 232.000 empleos en mayo, el mayor impulso en ocho años, pero la caída del paro se resiente</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La afiliación total alcanza un nuevo récord de 22,3 millones, con un fuerte avance de los extranjeros. El desempleo registrado retrocede en 36.300 personas, uno de los peores registros en ese mes desde 2012</onto:content>
+    <onto:sourceURL rdf:resource="https://elpais.com/economia/2026-06-02/la-economia-gana-232000-empleos-en-mayo-el-mayor-impulso-en-ocho-anos-pero-la-caida-del-paro-se-resiente.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tue, 02 Jun 2026 07:00:06 GMT</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Emilio_Sánchez_Hidalgo"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_economia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/person_Santiago_Millán_Alonso">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/Person"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Santiago Millán Alonso</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/person_Jesús-Sérvulo_González_Moreno">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/Person"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jesús-Sérvulo González Moreno</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/person_Silvia_Ayuso">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/Person"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Silvia Ayuso</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_0">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bruselas pide a España que limite las rebajas del IVA a la hostelería</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La Comisión Europea también reclama al Ejecutivo que reduzca la pobreza infantil “reequilibrando el gasto social entre generaciones”</onto:content>
+    <onto:sourceURL rdf:resource="https://elpais.com/economia/2026-06-03/bruselas-pide-a-espana-que-limite-desgravaciones-fiscales-como-las-rebajas-del-iva-a-la-hosteleria.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wed, 03 Jun 2026 11:00:06 GMT</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Manuel_Vicente_Gómez_Gómez"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_economia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_6">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Las claves: el imaginativo mercado de derivados se inventa un nuevo producto</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Los futuros perpetuos sobre SpaceX deberían llamarse más bien indefinidos</onto:content>
+    <onto:sourceURL rdf:resource="https://cincodias.elpais.com/opinion/2026-06-03/las-claves-el-imaginativo-mercado-de-derivados-se-inventa-un-nuevo-producto.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wed, 03 Jun 2026 03:40:00 GMT</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Cinco__Días"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_economia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/person_Manuel_Vicente_Gómez_Gómez">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/Person"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Manuel Vicente Gómez Gómez</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/person_Álvaro_Sánchez">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/Person"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Álvaro Sánchez</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_25">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Burger King España negocia una rebaja del interés de 1.100 millones de deuda mientras avanza en su venta</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El propietario de la franquicia en la península Ibérica paraliza la compra del negocio de la cadena de hamburgueserías en Italia</onto:content>
+    <onto:sourceURL rdf:resource="https://cincodias.elpais.com/companias/2026-06-03/burger-king-espana-negocia-una-rebaja-del-interes-de-1100-millones-de-deuda-mientras-avanza-en-su-venta.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wed, 03 Jun 2026 03:15:00 GMT</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Pablo_Martín_Simón"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_economia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_27">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Diego Abaitua (Renta 4): “Estamos abiertos a compras en banca privada, pero las valoraciones no están justificadas”</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El secretario general y director de banca privada de la entidad defiende un modelo sin clasificaciones. El banco cuenta con cerca de 7.000 clientes con más de 500.000 euros cada uno</onto:content>
+    <onto:sourceURL rdf:resource="https://cincodias.elpais.com/mercados-financieros/2026-06-03/diego-abaitua-renta-4-estamos-abiertos-a-compras-en-banca-privada-pero-las-valoraciones-no-estan-justificadas.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wed, 03 Jun 2026 03:30:01 GMT</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Pablo_Martín_Simón"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_economia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_23">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Casa Radio, el mastodóntico edificio de Rumania que ha degenerado en un conflicto judicial multimillonario</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El sueño megalómano de Ceausescu se ha convertido en el mayor escándalo inmobiliario del país</onto:content>
+    <onto:sourceURL rdf:resource="https://elpais.com/economia/negocios/carta-del-corresponsal/2026-05-30/casa-radio-el-mastodontico-edificio-de-rumania-que-ha-degenerado-en-un-conflicto-judicial-multimillonario.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sat, 30 May 2026 03:30:00 GMT</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Raúl_Sánchez_Costa"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_economia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_24">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">¿Dónde está el límite de la Bolsa? Anthropic y SpaceX miden un mercado contradictorio</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Las valoraciones exigentes ponen a prueba la racha bursátil, pero, irónicamente, las apuestas bajistas indican un nuevo impulso</onto:content>
+    <onto:sourceURL rdf:resource="https://cincodias.elpais.com/mercados-financieros/2026-06-03/donde-esta-el-limite-de-la-bolsa-anthropic-y-spacex-miden-un-mercado-contradictorio.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wed, 03 Jun 2026 03:25:00 GMT</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Caio_Mattos"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_economia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_9">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">CC OO exige un plan de choque ante el colapso en los tribunales laborales: un año de media para celebrar un juicio por despido</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El sindicato denuncia que 41 provincias superan los seis meses de media para iniciar las reclamaciones de cantidad o reconocimiento de derechos laborales</onto:content>
+    <onto:sourceURL rdf:resource="https://elpais.com/economia/2026-06-03/cc-oo-exige-un-plan-de-choque-ante-el-colapso-en-los-tribunales-laborales-un-ano-de-media-para-celebrar-un-juicio-por-despido.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wed, 03 Jun 2026 16:19:33 GMT</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Raquel_Cortés_Pascual"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_economia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_12">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Telefónica, Vodafone y MasOrange refuerzan sus redes ante la visita del Papa</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Las tres operadoras despliegan planes de 5G para evitar la saturación de los servicios en Madrid, Barcelona y Canarias</onto:content>
+    <onto:sourceURL rdf:resource="https://elpais.com/economia/2026-06-03/telefonica-vodafone-y-masorange-refuerzan-sus-redes-ante-la-visita-del-papa.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wed, 03 Jun 2026 12:16:43 GMT</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_EL_PAÍS"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_economia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/person_Juan_Carlos_Espinosa">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/Person"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Juan Carlos Espinosa</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_28">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Una motorista sin casco es arrollada por un turismo y muere, ¿cuál debe ser la indemnización si falleció por un golpe en la cabeza?</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El Tribunal Supremo aclara cómo repartir la responsabilidad en accidentes donde la culpa es compartida por las partes involucradas</onto:content>
+    <onto:sourceURL rdf:resource="https://elpais.com/economia/mis-derechos/2026-06-02/una-motorista-sin-casco-es-arrollada-por-un-turismo-y-muere-cual-debe-ser-la-indemnizacion-si-fallecio-por-un-golpe-en-la-cabeza.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tue, 02 Jun 2026 06:30:00 GMT</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Jose_Miguel_Barjola"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_economia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_5">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La debacle de Monsanto siembra amargas lecciones para las fusiones</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cualquier empresa como Bayer cuyos productos lleguen a millones de vidas es vulnerable a litigios demoledores</onto:content>
+    <onto:sourceURL rdf:resource="https://cincodias.elpais.com/opinion/2026-06-03/la-debacle-de-monsanto-siembra-amargas-lecciones-para-las-fusiones.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wed, 03 Jun 2026 03:40:00 GMT</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Aimee_Donnellan"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_economia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_4">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La realidad paralela de Trump, en otra dimensión</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A diferencia de Clinton y Obama, no rectifica
+ante el rechazo ciudadano y niega la realidad</onto:content>
+    <onto:sourceURL rdf:resource="https://cincodias.elpais.com/opinion/2026-06-03/la-realidad-paralela-de-trump-en-otra-dimension.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wed, 03 Jun 2026 03:40:00 GMT</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Jorge_Díaz-Cardiel"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_economia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/person_Pablo_Martín_Simón">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/Person"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pablo Martín Simón</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_2">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bruselas quiere reforzar el músculo tecnológico de Europa para reducir su dependencia de EE UU y China</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La Comisión Europea plantea aumentar la producción de semiconductores y triplicar la capacidad de los centros de datos en Europa con vistas a asegurar la soberanía tecnológica del continente</onto:content>
+    <onto:sourceURL rdf:resource="https://elpais.com/economia/2026-06-03/bruselas-quiere-reforzar-el-musculo-tecnologico-de-europa-para-reducir-su-dependencia-de-ee-uu-y-china.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wed, 03 Jun 2026 15:41:14 GMT</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Silvia_Ayuso"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_economia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_1">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Meliá también cede ante la presión de Trump y abandona la gestión de 15 hoteles en Cuba</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La decisión, comunicada a la CNMV, se produce tan solo un día después de que Iberostar anunciara que retira su marca a 12 establecimientos en la isla</onto:content>
+    <onto:sourceURL rdf:resource="https://elpais.com/economia/2026-06-03/melia-tambien-cede-ante-la-presion-de-trump-y-abandona-la-gestion-de-15-hoteles-en-cuba.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wed, 03 Jun 2026 08:38:19 GMT</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Carlos_Molina_Infante"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_economia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/person_Carlos_Molina_Infante">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/Person"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Carlos Molina Infante</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_18">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El Ministerio de Trabajo recomienda el teletrabajo en los municipios que visitará el Papa</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El departamento de Yolanda Díaz pide “reducir los desplazamientos innecesarios” en las localidades afectadas en Madrid, Cataluña y Canarias</onto:content>
+    <onto:sourceURL rdf:resource="https://elpais.com/economia/2026-06-02/el-ministerio-de-trabajo-recomienda-el-teletrabajo-en-los-municipios-que-visitara-el-papa.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tue, 02 Jun 2026 08:18:08 GMT</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Emilio_Sánchez_Hidalgo"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_economia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/person_Caio_Mattos">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/Person"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Caio Mattos</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_20">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">‘Personal shoppers’ inmobiliarios o cómo pagar 10.500 euros para que te busquen casa: “Soy los ojos y los pies de mis clientes”</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Este tipo de servicio personalizado gana protagonismo en el mercado inmobiliario. A diferencia de las agencias, trabajan exclusivamente para el comprador, defienden sus intereses, visitan las casas, negocian el precio y hacen todo el papeleo</onto:content>
+    <onto:sourceURL rdf:resource="https://elpais.com/economia/negocios/2026-05-30/el-ultimo-capricho-inmobiliario-personal-shoppers-o-como-pagar-10500-euros-porque-te-busquen-casa.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sat, 30 May 2026 03:30:00 GMT</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Sandra_López_Letón"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_economia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/person_Raúl_Sánchez_Costa">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/Person"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Raúl Sánchez Costa</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_8">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La justicia europea anula en parte la condición de Meta como guardián de mercado</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">El Tribunal General de la UE avala que la Comisión otorgara esa desingnación con respecto a Messenger pero la anula en relación a Marketplace</onto:content>
+    <onto:sourceURL rdf:resource="https://elpais.com/economia/2026-06-03/la-justicia-europea-anula-en-parte-la-condicion-de-meta-como-guardian-de-mercado.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wed, 03 Jun 2026 07:55:31 GMT</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Nuria_Morcillo,Manuel_Vicente_Gómez_Gómez"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_economia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/news_26">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/NewsArticle"/>
+    <onto:headline rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La revolución tecnológica de la IA muta en la mayor disputa financiera de la historia</onto:headline>
+    <onto:content rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alphabet reta con una colocación de acciones de 80.000 millones, respaldada por Berkshire Hathaway, a las salidas a Bolsa de SpaceX, Anthropic y OpenAI</onto:content>
+    <onto:sourceURL rdf:resource="https://cincodias.elpais.com/companias/2026-06-03/la-revolucion-tecnologica-de-la-ia-muta-en-la-mayor-disputa-financiera-de-la-historia.html"/>
+    <onto:publishDate rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Wed, 03 Jun 2026 03:15:00 GMT</onto:publishDate>
+    <onto:writtenBy rdf:resource="http://data.orbitalview.org/instance/person_Santiago_Millán_Alonso"/>
+    <onto:assignedTo rdf:resource="http://data.orbitalview.org/instance/section_economia"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/person_Cinco__Días">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/Person"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cinco  Días</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/person_Jorge_Díaz-Cardiel">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/Person"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Jorge Díaz-Cardiel</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/person_Sonia_Corona">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/Person"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sonia Corona</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/section_economia">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/Section"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">economia</rdfs:label>
+    <owl:sameAs rdf:resource="http://www.wikidata.org/entity/Q3958441"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/person_JOSE_ANTONIO_VEGA_VEGA">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/Person"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">JOSE ANTONIO VEGA VEGA</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/person_David_Fernández_Díaz">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/Person"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">David Fernández Díaz</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/person_Emilio_Sánchez_Hidalgo">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/Person"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Emilio Sánchez Hidalgo</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/person_María_Sahuquillo_,Jesús-Sérvulo_González_Moreno">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/Person"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">María Sahuquillo ,Jesús-Sérvulo González Moreno</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/person_Aimee_Donnellan">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/Person"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Aimee Donnellan</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.orbitalview.org/instance/person_Sandra_López_Letón">
+    <rdf:type rdf:resource="http://data.orbitalview.org/ontology/Person"/>
+    <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sandra López Letón</rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.wikidata.org/entity/Q3958441">
+    <rdfs:label xml:lang="es">economia</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

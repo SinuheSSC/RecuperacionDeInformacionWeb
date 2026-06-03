@@ -1,0 +1,332 @@
+@prefix data: <http://data.orbitalview.org/instance/> .
+@prefix onto: <http://data.orbitalview.org/ontology/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+data:news_0 a onto:NewsArticle ;
+    onto:assignedTo data:section_economia ;
+    onto:content "La Comisión Europea también reclama al Ejecutivo que reduzca la pobreza infantil “reequilibrando el gasto social entre generaciones”"^^xsd:string ;
+    onto:headline "Bruselas pide a España que limite las rebajas del IVA a la hostelería"^^xsd:string ;
+    onto:publishDate "Wed, 03 Jun 2026 11:00:06 GMT"^^xsd:string ;
+    onto:sourceURL <https://elpais.com/economia/2026-06-03/bruselas-pide-a-espana-que-limite-desgravaciones-fiscales-como-las-rebajas-del-iva-a-la-hosteleria.html> ;
+    onto:writtenBy data:person_Manuel_Vicente_Gómez_Gómez .
+
+data:news_1 a onto:NewsArticle ;
+    onto:assignedTo data:section_economia ;
+    onto:content "La decisión, comunicada a la CNMV, se produce tan solo un día después de que Iberostar anunciara que retira su marca a 12 establecimientos en la isla"^^xsd:string ;
+    onto:headline "Meliá también cede ante la presión de Trump y abandona la gestión de 15 hoteles en Cuba"^^xsd:string ;
+    onto:publishDate "Wed, 03 Jun 2026 08:38:19 GMT"^^xsd:string ;
+    onto:sourceURL <https://elpais.com/economia/2026-06-03/melia-tambien-cede-ante-la-presion-de-trump-y-abandona-la-gestion-de-15-hoteles-en-cuba.html> ;
+    onto:writtenBy data:person_Carlos_Molina_Infante .
+
+data:news_10 a onto:NewsArticle ;
+    onto:assignedTo data:section_economia ;
+    onto:content "Estados Unidos busca reconstruir su política arancelaria después de la derrota en el Supremo y planea aplicar un gravamen de al menos un 10% a decenas de países"^^xsd:string ;
+    onto:headline "Trump plantea nuevos aranceles a la UE, China o México basados en supuestos incumplimientos de las reglas de trabajo forzado"^^xsd:string ;
+    onto:publishDate "Wed, 03 Jun 2026 13:29:42 GMT"^^xsd:string ;
+    onto:sourceURL <https://elpais.com/economia/2026-06-03/trump-plantea-nuevos-aranceles-a-la-ue-china-o-mexico-basados-en-supuestos-incumplimientos-de-las-reglas-de-trabajo-forzado.html> ;
+    onto:writtenBy <http://data.orbitalview.org/instance/person_María_Sahuquillo_,Jesús-Sérvulo_González_Moreno> .
+
+data:news_11 a onto:NewsArticle ;
+    onto:assignedTo data:section_economia ;
+    onto:content "El organismo sube una décima, hasta el 2,2%, sus perspectivas de crecimiento para España este año, la única gran economía del euro que mejora"^^xsd:string ;
+    onto:headline "La OCDE advierte de que algunas economías entrarán en recesión si el bloqueo del estrecho de Ormuz se prolonga"^^xsd:string ;
+    onto:publishDate "Wed, 03 Jun 2026 07:00:46 GMT"^^xsd:string ;
+    onto:sourceURL <https://elpais.com/economia/2026-06-03/la-ocde-advierte-de-que-algunas-economias-entraran-en-recesion-si-el-bloqueo-del-estrecho-de-ormuz-se-prolonga.html> ;
+    onto:writtenBy data:person_Álvaro_Sánchez .
+
+data:news_12 a onto:NewsArticle ;
+    onto:assignedTo data:section_economia ;
+    onto:content "Las tres operadoras despliegan planes de 5G para evitar la saturación de los servicios en Madrid, Barcelona y Canarias"^^xsd:string ;
+    onto:headline "Telefónica, Vodafone y MasOrange refuerzan sus redes ante la visita del Papa"^^xsd:string ;
+    onto:publishDate "Wed, 03 Jun 2026 12:16:43 GMT"^^xsd:string ;
+    onto:sourceURL <https://elpais.com/economia/2026-06-03/telefonica-vodafone-y-masorange-refuerzan-sus-redes-ante-la-visita-del-papa.html> ;
+    onto:writtenBy data:person_EL_PAÍS .
+
+data:news_13 a onto:NewsArticle ;
+    onto:assignedTo data:section_economia ;
+    onto:content "Sheinbaum se reúne por videoconferencia con el vicepresidente Carlos Cuerpo, al no poder llegar a Palacio Nacional por las protestas de los maestros en la capital mexicana"^^xsd:string ;
+    onto:headline "España propone a México duplicar el comercio bilateral para 2030"^^xsd:string ;
+    onto:publishDate "Tue, 02 Jun 2026 19:04:32 GMT"^^xsd:string ;
+    onto:sourceURL <https://elpais.com/mexico/economia/2026-06-02/espana-propone-a-mexico-duplicar-el-comercio-bilateral-para-2030.html> ;
+    onto:writtenBy data:person_Sonia_Corona .
+
+data:news_14 a onto:NewsArticle ;
+    onto:assignedTo data:section_economia ;
+    onto:content "Los sindicatos esperan que la Seguridad Social impulse un real decreto con varias iniciativas no conflictivas para asegurar un voto positivo en el Congreso, pero los empresarios se resiste a apoyarlo"^^xsd:string ;
+    onto:headline "Las medidas para contener el alza de bajas laborales encallan: el Gobierno intenta sumar a la patronal a un pacto de mínimos"^^xsd:string ;
+    onto:publishDate "Wed, 03 Jun 2026 03:45:01 GMT"^^xsd:string ;
+    onto:sourceURL <https://elpais.com/economia/2026-06-03/las-medidas-para-contener-el-alza-de-bajas-laborales-encallan-el-gobierno-intenta-sumar-a-la-patronal-a-un-pacto-de-minimos.html> ;
+    onto:writtenBy data:person_Raquel_Cortés_Pascual .
+
+data:news_15 a onto:NewsArticle ;
+    onto:assignedTo data:section_economia ;
+    onto:content "El Gobierno cree que es pronto para relacionar estas cifras con la regularización extraordinaria de trabajadores foráneos"^^xsd:string ;
+    onto:headline "El empleo de extranjeros acelera más que nunca con 289.000 nuevos puestos en el último año"^^xsd:string ;
+    onto:publishDate "Wed, 03 Jun 2026 03:45:01 GMT"^^xsd:string ;
+    onto:sourceURL <https://elpais.com/economia/2026-06-03/el-empleo-de-extranjeros-acelera-mas-que-nunca-con-289000-nuevos-puestos-en-el-ultimo-ano.html> ;
+    onto:writtenBy data:person_Emilio_Sánchez_Hidalgo .
+
+data:news_16 a onto:NewsArticle ;
+    onto:assignedTo data:section_economia ;
+    onto:content "Los lectores envían sus preguntas al consultorio de vivienda de EL PAÍS en colaboración con Legálitas"^^xsd:string ;
+    onto:headline "¿Qué hacemos si el casero no nos comunica si va a ampliar el contrato? Somos jubilados y vivimos en esta casa desde 2020"^^xsd:string ;
+    onto:publishDate "Wed, 03 Jun 2026 03:30:00 GMT"^^xsd:string ;
+    onto:sourceURL <https://elpais.com/economia/vivienda/consultorio/2026-06-03/que-hacemos-si-el-casero-no-nos-comunica-si-va-a-ampliar-el-contrato-somos-jubilados-y-vivimos-en-esta-casa-desde-2020.html> ;
+    onto:writtenBy data:person_Ramón_Menendez_\(abogado_de_Legálitas\) .
+
+data:news_17 a onto:NewsArticle ;
+    onto:assignedTo data:section_economia ;
+    onto:content "La afiliación total alcanza un nuevo récord de 22,3 millones, con un fuerte avance de los extranjeros. El desempleo registrado retrocede en 36.300 personas, uno de los peores registros en ese mes desde 2012"^^xsd:string ;
+    onto:headline "La economía gana 232.000 empleos en mayo, el mayor impulso en ocho años, pero la caída del paro se resiente"^^xsd:string ;
+    onto:publishDate "Tue, 02 Jun 2026 07:00:06 GMT"^^xsd:string ;
+    onto:sourceURL <https://elpais.com/economia/2026-06-02/la-economia-gana-232000-empleos-en-mayo-el-mayor-impulso-en-ocho-anos-pero-la-caida-del-paro-se-resiente.html> ;
+    onto:writtenBy data:person_Emilio_Sánchez_Hidalgo .
+
+data:news_18 a onto:NewsArticle ;
+    onto:assignedTo data:section_economia ;
+    onto:content "El departamento de Yolanda Díaz pide “reducir los desplazamientos innecesarios” en las localidades afectadas en Madrid, Cataluña y Canarias"^^xsd:string ;
+    onto:headline "El Ministerio de Trabajo recomienda el teletrabajo en los municipios que visitará el Papa"^^xsd:string ;
+    onto:publishDate "Tue, 02 Jun 2026 08:18:08 GMT"^^xsd:string ;
+    onto:sourceURL <https://elpais.com/economia/2026-06-02/el-ministerio-de-trabajo-recomienda-el-teletrabajo-en-los-municipios-que-visitara-el-papa.html> ;
+    onto:writtenBy data:person_Emilio_Sánchez_Hidalgo .
+
+data:news_19 a onto:NewsArticle ;
+    onto:assignedTo data:section_economia ;
+    onto:content "El hombre más rico del mundo ultima la venta de acciones de su compañía de cohetes, satélites e IA, una operación de 75.000 millones de dólares envuelta en polémica"^^xsd:string ;
+    onto:headline "Elon Musk lleva a Wall Street al espacio: SpaceX, las claves de la empresa que intenta colonizar Marte con la mayor salida a Bolsa de la historia"^^xsd:string ;
+    onto:publishDate "Sat, 30 May 2026 15:45:00 GMT"^^xsd:string ;
+    onto:sourceURL <https://elpais.com/economia/negocios/2026-05-30/elon-musk-lleva-a-wall-street-al-espacio-spacex-las-claves-de-la-empresa-que-intenta-colonizar-marte-con-la-mayor-salida-a-bolsa-de-la-historia.html> ;
+    onto:writtenBy data:person_Jesús-Sérvulo_González_Moreno .
+
+data:news_2 a onto:NewsArticle ;
+    onto:assignedTo data:section_economia ;
+    onto:content "La Comisión Europea plantea aumentar la producción de semiconductores y triplicar la capacidad de los centros de datos en Europa con vistas a asegurar la soberanía tecnológica del continente"^^xsd:string ;
+    onto:headline "Bruselas quiere reforzar el músculo tecnológico de Europa para reducir su dependencia de EE UU y China"^^xsd:string ;
+    onto:publishDate "Wed, 03 Jun 2026 15:41:14 GMT"^^xsd:string ;
+    onto:sourceURL <https://elpais.com/economia/2026-06-03/bruselas-quiere-reforzar-el-musculo-tecnologico-de-europa-para-reducir-su-dependencia-de-ee-uu-y-china.html> ;
+    onto:writtenBy data:person_Silvia_Ayuso .
+
+data:news_20 a onto:NewsArticle ;
+    onto:assignedTo data:section_economia ;
+    onto:content "Este tipo de servicio personalizado gana protagonismo en el mercado inmobiliario. A diferencia de las agencias, trabajan exclusivamente para el comprador, defienden sus intereses, visitan las casas, negocian el precio y hacen todo el papeleo"^^xsd:string ;
+    onto:headline "‘Personal shoppers’ inmobiliarios o cómo pagar 10.500 euros para que te busquen casa: “Soy los ojos y los pies de mis clientes”"^^xsd:string ;
+    onto:publishDate "Sat, 30 May 2026 03:30:00 GMT"^^xsd:string ;
+    onto:sourceURL <https://elpais.com/economia/negocios/2026-05-30/el-ultimo-capricho-inmobiliario-personal-shoppers-o-como-pagar-10500-euros-porque-te-busquen-casa.html> ;
+    onto:writtenBy data:person_Sandra_López_Letón .
+
+data:news_21 a onto:NewsArticle ;
+    onto:assignedTo data:section_economia ;
+    onto:content "Cada vez más empleados recurren a esta tecnología por su cuenta, mientras muchas empresas siguen sin controlarla"^^xsd:string ;
+    onto:headline "Cuidado con usar la IA sin permiso, puede acabar en despido"^^xsd:string ;
+    onto:publishDate "Sun, 31 May 2026 03:30:00 GMT"^^xsd:string ;
+    onto:sourceURL <https://elpais.com/economia/negocios/2026-05-31/cuidado-con-usar-la-ia-sin-permiso-puede-acabar-en-despido.html> ;
+    onto:writtenBy data:person_Jorge__Velasco_García .
+
+data:news_22 a onto:NewsArticle ;
+    onto:assignedTo data:section_economia ;
+    onto:content "El mayor gasto de gobiernos, empresas y familias compensa la incertidumbre bélica, según los expertos de JP Morgan Asset Management"^^xsd:string ;
+    onto:headline "Por qué las Bolsas están en máximos a pesar de los ‘shocks’ geopolíticos: “Cuanto más caos, más estímulos se aprueban”"^^xsd:string ;
+    onto:publishDate "Sun, 31 May 2026 03:30:00 GMT"^^xsd:string ;
+    onto:sourceURL <https://elpais.com/economia/negocios/2026-05-31/por-que-las-bolsas-estan-en-maximos-a-pesar-de-los-shocks-geopoliticos-cuanto-mas-caos-mas-estimulos-se-aprueban.html> ;
+    onto:writtenBy data:person_David_Fernández_Díaz .
+
+data:news_23 a onto:NewsArticle ;
+    onto:assignedTo data:section_economia ;
+    onto:content "El sueño megalómano de Ceausescu se ha convertido en el mayor escándalo inmobiliario del país"^^xsd:string ;
+    onto:headline "Casa Radio, el mastodóntico edificio de Rumania que ha degenerado en un conflicto judicial multimillonario"^^xsd:string ;
+    onto:publishDate "Sat, 30 May 2026 03:30:00 GMT"^^xsd:string ;
+    onto:sourceURL <https://elpais.com/economia/negocios/carta-del-corresponsal/2026-05-30/casa-radio-el-mastodontico-edificio-de-rumania-que-ha-degenerado-en-un-conflicto-judicial-multimillonario.html> ;
+    onto:writtenBy data:person_Raúl_Sánchez_Costa .
+
+data:news_24 a onto:NewsArticle ;
+    onto:assignedTo data:section_economia ;
+    onto:content "Las valoraciones exigentes ponen a prueba la racha bursátil, pero, irónicamente, las apuestas bajistas indican un nuevo impulso"^^xsd:string ;
+    onto:headline "¿Dónde está el límite de la Bolsa? Anthropic y SpaceX miden un mercado contradictorio"^^xsd:string ;
+    onto:publishDate "Wed, 03 Jun 2026 03:25:00 GMT"^^xsd:string ;
+    onto:sourceURL <https://cincodias.elpais.com/mercados-financieros/2026-06-03/donde-esta-el-limite-de-la-bolsa-anthropic-y-spacex-miden-un-mercado-contradictorio.html> ;
+    onto:writtenBy data:person_Caio_Mattos .
+
+data:news_25 a onto:NewsArticle ;
+    onto:assignedTo data:section_economia ;
+    onto:content "El propietario de la franquicia en la península Ibérica paraliza la compra del negocio de la cadena de hamburgueserías en Italia"^^xsd:string ;
+    onto:headline "Burger King España negocia una rebaja del interés de 1.100 millones de deuda mientras avanza en su venta"^^xsd:string ;
+    onto:publishDate "Wed, 03 Jun 2026 03:15:00 GMT"^^xsd:string ;
+    onto:sourceURL <https://cincodias.elpais.com/companias/2026-06-03/burger-king-espana-negocia-una-rebaja-del-interes-de-1100-millones-de-deuda-mientras-avanza-en-su-venta.html> ;
+    onto:writtenBy data:person_Pablo_Martín_Simón .
+
+data:news_26 a onto:NewsArticle ;
+    onto:assignedTo data:section_economia ;
+    onto:content "Alphabet reta con una colocación de acciones de 80.000 millones, respaldada por Berkshire Hathaway, a las salidas a Bolsa de SpaceX, Anthropic y OpenAI"^^xsd:string ;
+    onto:headline "La revolución tecnológica de la IA muta en la mayor disputa financiera de la historia"^^xsd:string ;
+    onto:publishDate "Wed, 03 Jun 2026 03:15:00 GMT"^^xsd:string ;
+    onto:sourceURL <https://cincodias.elpais.com/companias/2026-06-03/la-revolucion-tecnologica-de-la-ia-muta-en-la-mayor-disputa-financiera-de-la-historia.html> ;
+    onto:writtenBy data:person_Santiago_Millán_Alonso .
+
+data:news_27 a onto:NewsArticle ;
+    onto:assignedTo data:section_economia ;
+    onto:content "El secretario general y director de banca privada de la entidad defiende un modelo sin clasificaciones. El banco cuenta con cerca de 7.000 clientes con más de 500.000 euros cada uno"^^xsd:string ;
+    onto:headline "Diego Abaitua (Renta 4): “Estamos abiertos a compras en banca privada, pero las valoraciones no están justificadas”"^^xsd:string ;
+    onto:publishDate "Wed, 03 Jun 2026 03:30:01 GMT"^^xsd:string ;
+    onto:sourceURL <https://cincodias.elpais.com/mercados-financieros/2026-06-03/diego-abaitua-renta-4-estamos-abiertos-a-compras-en-banca-privada-pero-las-valoraciones-no-estan-justificadas.html> ;
+    onto:writtenBy data:person_Pablo_Martín_Simón .
+
+data:news_28 a onto:NewsArticle ;
+    onto:assignedTo data:section_economia ;
+    onto:content "El Tribunal Supremo aclara cómo repartir la responsabilidad en accidentes donde la culpa es compartida por las partes involucradas"^^xsd:string ;
+    onto:headline "Una motorista sin casco es arrollada por un turismo y muere, ¿cuál debe ser la indemnización si falleció por un golpe en la cabeza?"^^xsd:string ;
+    onto:publishDate "Tue, 02 Jun 2026 06:30:00 GMT"^^xsd:string ;
+    onto:sourceURL <https://elpais.com/economia/mis-derechos/2026-06-02/una-motorista-sin-casco-es-arrollada-por-un-turismo-y-muere-cual-debe-ser-la-indemnizacion-si-fallecio-por-un-golpe-en-la-cabeza.html> ;
+    onto:writtenBy data:person_Jose_Miguel_Barjola .
+
+data:news_29 a onto:NewsArticle ;
+    onto:assignedTo data:section_economia ;
+    onto:content "El Tribunal Superior de Justicia de Madrid condena a la consejería a pagar más de 4.000 euros con intereses a una docente"^^xsd:string ;
+    onto:headline "La Consejería de Educación de Madrid, de nuevo condenada por negar el sueldo de verano a una profesora interna"^^xsd:string ;
+    onto:publishDate "Thu, 21 May 2026 10:23:22 GMT"^^xsd:string ;
+    onto:sourceURL <https://elpais.com/economia/mis-derechos/2026-05-21/la-consejeria-de-educacion-de-madrid-de-nuevo-condenada-por-negar-el-sueldo-de-verano-a-una-profesora-interna.html> ;
+    onto:writtenBy data:person_Patricia__Estebán .
+
+data:news_3 a onto:NewsArticle ;
+    onto:assignedTo data:section_economia ;
+    onto:content "La orden ejecutiva del 1 de mayo, que amenaza con congelar los activos de las empresas extranjeras en la isla, tomará efecto el viernes"^^xsd:string ;
+    onto:headline "Las claves de un ultimátum: cómo Washington consumó el jaque al decaído turismo en Cuba"^^xsd:string ;
+    onto:publishDate "Wed, 03 Jun 2026 03:45:01 GMT"^^xsd:string ;
+    onto:sourceURL <https://elpais.com/mexico/2026-06-03/las-claves-de-un-ultimatum-como-washington-consumo-el-jaque-al-decaido-turismo-en-cuba.html> ;
+    onto:writtenBy data:person_Juan_Carlos_Espinosa .
+
+data:news_4 a onto:NewsArticle ;
+    onto:assignedTo data:section_economia ;
+    onto:content """A diferencia de Clinton y Obama, no rectifica
+ante el rechazo ciudadano y niega la realidad"""^^xsd:string ;
+    onto:headline "La realidad paralela de Trump, en otra dimensión"^^xsd:string ;
+    onto:publishDate "Wed, 03 Jun 2026 03:40:00 GMT"^^xsd:string ;
+    onto:sourceURL <https://cincodias.elpais.com/opinion/2026-06-03/la-realidad-paralela-de-trump-en-otra-dimension.html> ;
+    onto:writtenBy data:person_Jorge_Díaz-Cardiel .
+
+data:news_5 a onto:NewsArticle ;
+    onto:assignedTo data:section_economia ;
+    onto:content "Cualquier empresa como Bayer cuyos productos lleguen a millones de vidas es vulnerable a litigios demoledores"^^xsd:string ;
+    onto:headline "La debacle de Monsanto siembra amargas lecciones para las fusiones"^^xsd:string ;
+    onto:publishDate "Wed, 03 Jun 2026 03:40:00 GMT"^^xsd:string ;
+    onto:sourceURL <https://cincodias.elpais.com/opinion/2026-06-03/la-debacle-de-monsanto-siembra-amargas-lecciones-para-las-fusiones.html> ;
+    onto:writtenBy data:person_Aimee_Donnellan .
+
+data:news_6 a onto:NewsArticle ;
+    onto:assignedTo data:section_economia ;
+    onto:content "Los futuros perpetuos sobre SpaceX deberían llamarse más bien indefinidos"^^xsd:string ;
+    onto:headline "Las claves: el imaginativo mercado de derivados se inventa un nuevo producto"^^xsd:string ;
+    onto:publishDate "Wed, 03 Jun 2026 03:40:00 GMT"^^xsd:string ;
+    onto:sourceURL <https://cincodias.elpais.com/opinion/2026-06-03/las-claves-el-imaginativo-mercado-de-derivados-se-inventa-un-nuevo-producto.html> ;
+    onto:writtenBy data:person_Cinco__Días .
+
+data:news_7 a onto:NewsArticle ;
+    onto:assignedTo data:section_economia ;
+    onto:content "Sólo un alza muy prolongada de los tipos de interés desactivará un mercado en el que la oferta no alcanza a la demanda"^^xsd:string ;
+    onto:headline "Las poderosas razones que tiene la vivienda para seguir subiendo"^^xsd:string ;
+    onto:publishDate "Wed, 03 Jun 2026 03:40:00 GMT"^^xsd:string ;
+    onto:sourceURL <https://cincodias.elpais.com/opinion/2026-06-03/las-poderosas-razones-que-tiene-la-vivienda-para-seguir-subiendo.html> ;
+    onto:writtenBy data:person_JOSE_ANTONIO_VEGA_VEGA .
+
+data:news_8 a onto:NewsArticle ;
+    onto:assignedTo data:section_economia ;
+    onto:content "El Tribunal General de la UE avala que la Comisión otorgara esa desingnación con respecto a Messenger pero la anula en relación a Marketplace"^^xsd:string ;
+    onto:headline "La justicia europea anula en parte la condición de Meta como guardián de mercado"^^xsd:string ;
+    onto:publishDate "Wed, 03 Jun 2026 07:55:31 GMT"^^xsd:string ;
+    onto:sourceURL <https://elpais.com/economia/2026-06-03/la-justicia-europea-anula-en-parte-la-condicion-de-meta-como-guardian-de-mercado.html> ;
+    onto:writtenBy <http://data.orbitalview.org/instance/person_Nuria_Morcillo,Manuel_Vicente_Gómez_Gómez> .
+
+data:news_9 a onto:NewsArticle ;
+    onto:assignedTo data:section_economia ;
+    onto:content "El sindicato denuncia que 41 provincias superan los seis meses de media para iniciar las reclamaciones de cantidad o reconocimiento de derechos laborales"^^xsd:string ;
+    onto:headline "CC OO exige un plan de choque ante el colapso en los tribunales laborales: un año de media para celebrar un juicio por despido"^^xsd:string ;
+    onto:publishDate "Wed, 03 Jun 2026 16:19:33 GMT"^^xsd:string ;
+    onto:sourceURL <https://elpais.com/economia/2026-06-03/cc-oo-exige-un-plan-de-choque-ante-el-colapso-en-los-tribunales-laborales-un-ano-de-media-para-celebrar-un-juicio-por-despido.html> ;
+    onto:writtenBy data:person_Raquel_Cortés_Pascual .
+
+data:person_Aimee_Donnellan a onto:Person ;
+    rdfs:label "Aimee Donnellan"^^xsd:string .
+
+data:person_Caio_Mattos a onto:Person ;
+    rdfs:label "Caio Mattos"^^xsd:string .
+
+data:person_Carlos_Molina_Infante a onto:Person ;
+    rdfs:label "Carlos Molina Infante"^^xsd:string .
+
+data:person_Cinco__Días a onto:Person ;
+    rdfs:label "Cinco  Días"^^xsd:string .
+
+data:person_David_Fernández_Díaz a onto:Person ;
+    rdfs:label "David Fernández Díaz"^^xsd:string .
+
+data:person_EL_PAÍS a onto:Person ;
+    rdfs:label "EL PAÍS"^^xsd:string .
+
+data:person_JOSE_ANTONIO_VEGA_VEGA a onto:Person ;
+    rdfs:label "JOSE ANTONIO VEGA VEGA"^^xsd:string .
+
+data:person_Jesús-Sérvulo_González_Moreno a onto:Person ;
+    rdfs:label "Jesús-Sérvulo González Moreno"^^xsd:string .
+
+data:person_Jorge_Díaz-Cardiel a onto:Person ;
+    rdfs:label "Jorge Díaz-Cardiel"^^xsd:string .
+
+data:person_Jorge__Velasco_García a onto:Person ;
+    rdfs:label "Jorge  Velasco García"^^xsd:string .
+
+data:person_Jose_Miguel_Barjola a onto:Person ;
+    rdfs:label "Jose Miguel Barjola"^^xsd:string .
+
+data:person_Juan_Carlos_Espinosa a onto:Person ;
+    rdfs:label "Juan Carlos Espinosa"^^xsd:string .
+
+data:person_Manuel_Vicente_Gómez_Gómez a onto:Person ;
+    rdfs:label "Manuel Vicente Gómez Gómez"^^xsd:string .
+
+<http://data.orbitalview.org/instance/person_María_Sahuquillo_,Jesús-Sérvulo_González_Moreno> a onto:Person ;
+    rdfs:label "María Sahuquillo ,Jesús-Sérvulo González Moreno"^^xsd:string .
+
+<http://data.orbitalview.org/instance/person_Nuria_Morcillo,Manuel_Vicente_Gómez_Gómez> a onto:Person ;
+    rdfs:label "Nuria Morcillo,Manuel Vicente Gómez Gómez"^^xsd:string .
+
+data:person_Patricia__Estebán a onto:Person ;
+    rdfs:label "Patricia  Estebán"^^xsd:string .
+
+data:person_Ramón_Menendez_\(abogado_de_Legálitas\) a onto:Person ;
+    rdfs:label "Ramón Menendez (abogado de Legálitas)"^^xsd:string .
+
+data:person_Raúl_Sánchez_Costa a onto:Person ;
+    rdfs:label "Raúl Sánchez Costa"^^xsd:string .
+
+data:person_Sandra_López_Letón a onto:Person ;
+    rdfs:label "Sandra López Letón"^^xsd:string .
+
+data:person_Santiago_Millán_Alonso a onto:Person ;
+    rdfs:label "Santiago Millán Alonso"^^xsd:string .
+
+data:person_Silvia_Ayuso a onto:Person ;
+    rdfs:label "Silvia Ayuso"^^xsd:string .
+
+data:person_Sonia_Corona a onto:Person ;
+    rdfs:label "Sonia Corona"^^xsd:string .
+
+data:person_Álvaro_Sánchez a onto:Person ;
+    rdfs:label "Álvaro Sánchez"^^xsd:string .
+
+wd:Q3958441 rdfs:label "economia"@es .
+
+data:person_Pablo_Martín_Simón a onto:Person ;
+    rdfs:label "Pablo Martín Simón"^^xsd:string .
+
+data:person_Raquel_Cortés_Pascual a onto:Person ;
+    rdfs:label "Raquel Cortés Pascual"^^xsd:string .
+
+data:person_Emilio_Sánchez_Hidalgo a onto:Person ;
+    rdfs:label "Emilio Sánchez Hidalgo"^^xsd:string .
+
+data:section_economia a onto:Section ;
+    rdfs:label "economia"^^xsd:string ;
+    owl:sameAs wd:Q3958441 .
+
