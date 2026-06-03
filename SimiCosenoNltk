@@ -1,0 +1,58 @@
+from pathlib import Path
+
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
+
+from nltk.corpus import stopwords
+
+import nltk
+nltk.download('stopwords')
+
+
+def cargar_documentos(directorio: str):
+    base_path = Path(directorio)
+    filepaths = sorted(base_path.glob("*.txt"))
+
+    documentos = []
+    nombres = []
+
+    for path in filepaths:
+        texto = path.read_text(encoding="utf-8", errors="ignore")
+        documentos.append(texto)
+        nombres.append(path.name)
+
+    return nombres, documentos
+
+
+def calcular_tfidf(documentos):
+    stopwords_es = stopwords.words("spanish")
+
+    vectorizador = TfidfVectorizer(
+        lowercase=True,
+        stop_words=stopwords_es
+    )
+    matriz_tfidf = vectorizador.fit_transform(documentos)
+    return matriz_tfidf, vectorizador
+
+
+def matriz_similitud_coseno(matriz_tfidf):
+    return cosine_similarity(matriz_tfidf)
+
+
+if __name__ == "__main__":
+    nombres, documentos = cargar_documentos("SimiCosenoTextos")
+    matriz_tfidf, vectorizador = calcular_tfidf(documentos)
+    sim_matrix = matriz_similitud_coseno(matriz_tfidf)
+
+    print("Documentos cargados:")
+    for i, nombre in enumerate(nombres):
+        print(f"{i}: {nombre}")
+
+    print("\nMatriz de similitud de coseno:")
+    print(sim_matrix)
+
+    if len(nombres) >= 2:
+        print(
+            f"\nSimilitud de coseno entre '{nombres[0]}' y '{nombres[1]}': "
+            f"{sim_matrix[0, 1]:.4f}"
+        )
